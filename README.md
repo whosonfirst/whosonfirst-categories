@@ -19,7 +19,7 @@ commons. It is "stuff people search for" and other things can be easily ranked
 and quantified in to something you might understand as the popular or dominant
 opinion.
 
-Example points-of-view might include:
+Example points of view might include:
 
 * consensus
 * local
@@ -31,7 +31,7 @@ The view from 50, 000 feet, approximately. These are high level buckets of human
 activities. The convention and best practice for classes is that there are
 roughly only (10) of them per point of view.
 
-Classes are parented by points of view. Example classes might include:
+Classes are parented by points of view. Classes may be shared across multiple points of view. Example classes might include:
 
 * eating
 * drinking
@@ -52,7 +52,7 @@ than _why_.
 The convention and best practice for categories is that are roughly 10x of them
 relative to their parent class.
 
-Categories are parented by classes. Example categories might include:
+Categories are parented by classes. Categories may be shared across multiple classes. Example categories might include:
 
 * restaurant
 * department-store
@@ -69,7 +69,7 @@ baggage (point of view).
 
 There can be an arbitrary number of sub-categories for class/category pair.
 
-Sub-categories are parented by categories. Example sub-categories might include:
+Sub-categories are parented by categories. Sub-categories may be shared across multiple categories. Example sub-categories might include:
 
 * afghan
 * chinese
@@ -82,7 +82,7 @@ this:
 
 https://collection.cooperhewitt.org/media/page414
 
-Tags are parented by sub-categories (and maybe categories). Example tags are left as an exercise to the reader.
+Tags are parented by sub-categories (and maybe categories). Tags can be shared willy-nilly. Example tags are left as an exercise to the reader.
 
 ## Naming conventions
 
