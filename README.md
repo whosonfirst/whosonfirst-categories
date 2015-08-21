@@ -19,11 +19,24 @@ commons. It is "stuff people search for" and other things can be easily ranked
 and quantified in to something you might understand as popular or dominant
 opinion.
 
+Example points-of-view might include:
+
+* consensus
+* local
+* tourist
+
 ### Classes
 
 The view from 50, 000 feet, approximately. These are high level buckets of human
 activities. The convention and best practice for classes is that there are
 roughly only (10) of them per point of view.
+
+Example classes might include:
+
+* eating
+* drinking
+* industry
+* natural
 
 ### Categories
 
@@ -39,6 +52,12 @@ than _why_.
 The convention and best practice for categories is that are roughly 10x of them
 relative to their parent class.
 
+Example categories might include:
+
+* restaurant
+* department-store
+* veterinarian
+
 ### Sub-categories
 
 _This is an even unfortunate name than "category". We should find another one
@@ -50,12 +69,20 @@ baggage (point of view).
 
 There can be an arbitrary number of sub-categories for class/category pair.
 
+Example sub-categories might include:
+
+* afghan
+* chinese
+* bagels
+
 ## Tags
 
 You know, words. Or short sequences of words. Not paragraphs. When in doubt, not
 this:
 
 https://collection.cooperhewitt.org/media/page414
+
+Example tags are left as an exercise to the reader.
 
 ## Naming conventions
 
