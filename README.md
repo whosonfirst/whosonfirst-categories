@@ -10,7 +10,9 @@ as it is actually deciding the how or the what of anything.
 ### Points of view
 
 At the moment there is only one point of view. The point (sorry) is there can be
-others but there aren't yet.
+others but there aren't yet. You know, [like this](https://boingboing.net/2007/11/09/flickr-places-shows.html):
+
+![](chicken.jpg)
 
 The default point of view, to start with, is essentially the tyranny of the
 commons. It is "stuff people search for" and other things can be easily ranked
