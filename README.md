@@ -31,7 +31,7 @@ The view from 50, 000 feet, approximately. These are high level buckets of human
 activities. The convention and best practice for classes is that there are
 roughly only (10) of them per point of view.
 
-Example classes might include:
+Classes are parented by points of view. Example classes might include:
 
 * eating
 * drinking
@@ -52,7 +52,7 @@ than _why_.
 The convention and best practice for categories is that are roughly 10x of them
 relative to their parent class.
 
-Example categories might include:
+Categories are parented by classes. Example categories might include:
 
 * restaurant
 * department-store
@@ -69,7 +69,7 @@ baggage (point of view).
 
 There can be an arbitrary number of sub-categories for class/category pair.
 
-Example sub-categories might include:
+Sub-categories are parented by categories. Example sub-categories might include:
 
 * afghan
 * chinese
@@ -82,7 +82,7 @@ this:
 
 https://collection.cooperhewitt.org/media/page414
 
-Example tags are left as an exercise to the reader.
+Tags are parented by sub-categories (and maybe categories). Example tags are left as an exercise to the reader.
 
 ## Naming conventions
 
