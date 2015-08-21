@@ -1,5 +1,6 @@
 {
 	"id": 123,
 	"name": "eating",
-	"label": "Eating"
+	"label": "Eating",
+	"point-of-view": ["consensus", "toursist"]
 }
