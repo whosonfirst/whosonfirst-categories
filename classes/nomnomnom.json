@@ -1,5 +1,6 @@
 {
 	"id": 227,
 	"name": "nomnomnom",
-	"label": "Nom nom nom -ing"
+	"label": "Nom nom nom -ing",
+	"point-of-view": ["local"]
 }
