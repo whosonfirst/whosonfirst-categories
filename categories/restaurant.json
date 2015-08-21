@@ -1,0 +1,11 @@
+{
+	"id": 29,
+	"name": "restaurant",
+	"label": "Restaurant",
+	"class": [ "consensus:eating", "tourist:eating", "local:eating" ],
+	"subcategories": {
+		"consensus": 12,
+		"tourist": 4,
+		"local": 0
+	}
+}
