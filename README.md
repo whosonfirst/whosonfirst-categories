@@ -9,8 +9,8 @@ as it is actually deciding the how or the what of anything.
 
 ### Points of view
 
-At the moment there is only one point of view. The point is there can be others
-but there aren't yet.
+At the moment there is only one point of view. The point (sorry) is there can be
+others but there aren't yet.
 
 The default point of view, to start with, is essentially the tyranny of the
 commons. It is "stuff people search for" and other things can be easily ranked
