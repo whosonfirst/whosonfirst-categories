@@ -60,7 +60,7 @@ Example categories might include:
 
 ### Sub-categories
 
-_This is an even unfortunate name than "category". We should find another one
+_This is an even more unfortunate name than "category". We should find another one
 for this, too._
 
 This is a free-for-all. Essentially these are just tags with a parent
