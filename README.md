@@ -95,6 +95,10 @@ order of each part of the string corresponds to a specific type:
 POINT-OF-VIEW > CLASS 
 ```
 
+Each part of the exploded string points to the URL-safe name (and by extension
+filename) for that type so that you can easily refer to
+`points-of-view/POINT-OF-VIEW.json` and so on.
+
 ### category
 
 This property would be defined in the definition for a sub-category and be a list of
@@ -112,6 +116,11 @@ order of each part of the string corresponds to a specific type:
 ```
 POINT-OF-VIEW > CLASS > CATEGORY
 ```
+
+Each part of the exploded string points to the URL-safe name (and by extension
+filename) for that type so that you can easily refer to
+`categories/CATEGORY.json` and so on.
+
 ## Gotchas
 
 ### Homonyms
