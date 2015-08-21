@@ -148,6 +148,10 @@ Each part of the exploded string points to the URL-safe name (and by extension
 filename) for that type so that you can easily refer to
 `categories/CATEGORY.json` and so on.
 
+## Translations and localization
+
+[See also:](https://mapzen.com/blog/who-s-on-first#names)
+
 ## Gotchas
 
 ### Homonyms
