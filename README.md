@@ -150,7 +150,7 @@ filename) for that type so that you can easily refer to
 
 ## Translations and localization
 
-[See also:](https://mapzen.com/blog/who-s-on-first#names)
+See also: [How we handle place names in Who's On First](https://mapzen.com/blog/who-s-on-first#names)
 
 ## Gotchas
 
