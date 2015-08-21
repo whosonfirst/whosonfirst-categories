@@ -16,7 +16,7 @@ others but there aren't yet. You know, [like this](https://boingboing.net/2007/1
 
 The default point of view, to start with, is essentially the tyranny of the
 commons. It is "stuff people search for" and other things can be easily ranked
-and quantified in to something you might understand as popular or dominant
+and quantified in to something you might understand as the popular or dominant
 opinion.
 
 Example points-of-view might include:
