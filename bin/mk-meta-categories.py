@@ -35,6 +35,6 @@ if __name__ == '__main__':
             })
 
     fh = sys.stdout
-    json.dump(out, fh, indent=2)
+    json.dump(out, fh, indent=None)
 
     sys.exit(0)
