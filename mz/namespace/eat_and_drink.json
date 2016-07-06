@@ -1,5 +1,6 @@
 {
-    "id": 874408263,
-    "name": "eat_and_drink",
-    "label": "Eat & Drink"
+	"id": 874408263,
+	"name": "eat_and_drink",
+	"label": "Eat & Drink",
+	"mz:rank": 1
 }
