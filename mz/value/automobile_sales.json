@@ -1,5 +1,6 @@
 {
-    "id": 874408181,
-    "name": "automobile_sales",
-    "label": "Automobile Sales"
+	"id": 874408181,
+	"name": "automobile_sales",
+	"label": "Automobile Sales",
+	"mz:synonyms": [ "car sales", "auto dealer", "dealership" ]
 }
