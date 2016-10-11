@@ -1,5 +1,6 @@
 {
     "id": 874408503,
     "name": "archaeological_site",
-    "label": "Archaeological Site"
+    "label": "Archaeological Site",
+    "parent_id": 874407929
 }

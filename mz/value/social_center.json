@@ -1,5 +1,6 @@
 {
     "id": 874408231,
     "name": "social_center",
-    "label": "Social Center"
+    "label": "Social Center",
+    "parent_id": 874407929
 }

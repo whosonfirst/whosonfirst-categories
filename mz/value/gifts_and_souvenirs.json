@@ -1,5 +1,6 @@
 {
     "id": 874408629,
     "name": "gifts_and_souvenirs",
-    "label": "Gifts & Souvenirs"
+    "label": "Gifts & Souvenirs",
+    "parent_id": 874408107
 }

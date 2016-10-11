@@ -1,5 +1,6 @@
 {
     "id": 874408063,
     "name": "fuel_oil_and_lpg",
-    "label": "Fuel Oil & LPG"
+    "label": "Fuel Oil & LPG",
+    "parent_id": 874408045
 }

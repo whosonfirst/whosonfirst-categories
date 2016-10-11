@@ -1,5 +1,6 @@
 {
     "id": 874409915,
     "name": "first_aid_station",
-    "label": "First Aid Station"
+    "label": "First Aid Station",
+    "parent_id": 874408021
 }

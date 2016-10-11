@@ -1,5 +1,6 @@
 {
     "id": 874409763,
     "name": "non_durable_goods",
-    "label": "Non-durable Goods"
+    "label": "Non-durable Goods",
+    "parent_id": 874408055
 }

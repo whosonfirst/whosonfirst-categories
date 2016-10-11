@@ -1,5 +1,6 @@
 {
     "id": 874408607,
     "name": "lifeguard_tower",
-    "label": "Lifeguard Tower"
+    "label": "Lifeguard Tower",
+    "parent_id": 874407991
 }

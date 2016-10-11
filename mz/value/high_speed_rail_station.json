@@ -1,5 +1,7 @@
 {
     "id": 874409523,
     "name": "high_speed_rail_station",
-    "label": "High Speed Rail Station"
+    "label": "High Speed Rail Station",
+    "mz:rank": 73,
+    "parent_id": 874407955
 }

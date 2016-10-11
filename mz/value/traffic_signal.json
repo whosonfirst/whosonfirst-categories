@@ -1,5 +1,6 @@
 {
     "id": 874408897,
     "name": "traffic_signal",
-    "label": "Traffic Signal"
+    "label": "Traffic Signal",
+    "parent_id": 874408001
 }

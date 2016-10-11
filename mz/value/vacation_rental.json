@@ -1,5 +1,6 @@
 {
     "id": 874408665,
     "name": "vacation_rental",
-    "label": "Vacation Rental"
+    "label": "Vacation Rental",
+    "parent_id": 874407981
 }

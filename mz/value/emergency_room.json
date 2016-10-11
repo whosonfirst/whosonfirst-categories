@@ -1,5 +1,6 @@
 {
     "id": 874409315,
     "name": "emergency_room",
-    "label": "Emergency Room"
+    "label": "Emergency Room",
+    "parent_id": 874408021
 }

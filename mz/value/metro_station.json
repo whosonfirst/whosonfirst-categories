@@ -1,5 +1,7 @@
 {
     "id": 874409525,
     "name": "metro_station",
-    "label": "Metro Station"
+    "label": "Metro Station",
+    "mz:rank": 77,
+    "parent_id": 874407955
 }

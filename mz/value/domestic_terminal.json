@@ -1,5 +1,6 @@
 {
     "id": 874408651,
     "name": "domestic_terminal",
-    "label": "Domestic Terminal"
+    "label": "Domestic Terminal",
+    "parent_id": 874407955
 }

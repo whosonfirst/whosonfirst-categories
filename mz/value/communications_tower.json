@@ -1,5 +1,6 @@
 {
     "id": 874408461,
     "name": "communications_tower",
-    "label": "Communications Tower"
+    "label": "Communications Tower",
+    "parent_id": 874407991
 }

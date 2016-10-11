@@ -1,5 +1,6 @@
 {
     "id": 874409171,
     "name": "nail_salon",
-    "label": "Nail Salon"
+    "label": "Nail Salon",
+    "parent_id": 874408045
 }

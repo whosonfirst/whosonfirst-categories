@@ -1,5 +1,6 @@
 {
     "id": 874408583,
     "name": "guest_house",
-    "label": "Guest House"
+    "label": "Guest House",
+    "parent_id": 874407981
 }

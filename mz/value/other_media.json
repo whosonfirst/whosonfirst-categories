@@ -1,5 +1,6 @@
 {
     "id": 874409953,
     "name": "other_media",
-    "label": "Other Media"
+    "label": "Other Media",
+    "parent_id": 874408045
 }

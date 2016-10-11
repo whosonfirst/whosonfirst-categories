@@ -1,5 +1,6 @@
 {
     "id": 874408921,
     "name": "power_tower",
-    "label": "Power Tower"
+    "label": "Power Tower",
+    "parent_id": 874407991
 }

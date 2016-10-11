@@ -1,5 +1,6 @@
 {
     "id": 874408663,
     "name": "taxi_company",
-    "label": "Taxi Company"
+    "label": "Taxi Company",
+    "parent_id": 874407955
 }

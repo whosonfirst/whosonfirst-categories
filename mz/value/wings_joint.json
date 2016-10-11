@@ -1,5 +1,6 @@
 {
     "id": 874408339,
     "name": "wings_joint",
-    "label": "Wings Joint"
+    "label": "Wings Joint",
+    "parent_id": 874408281
 }

@@ -1,5 +1,6 @@
 {
     "id": 874407995,
     "name": "rest_area",
-    "label": "Rest Area"
+    "label": "Rest Area",
+    "parent_id": 874407955
 }

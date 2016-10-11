@@ -1,5 +1,6 @@
 {
     "id": 874408121,
     "name": "ranger_station",
-    "label": "Ranger Station"
+    "label": "Ranger Station",
+    "parent_id": 874407929
 }

@@ -1,5 +1,6 @@
 {
     "id": 874409093,
     "name": "chair_lift",
-    "label": "Chair Lift"
+    "label": "Chair Lift",
+    "parent_id": 874408001
 }

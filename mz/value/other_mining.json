@@ -1,5 +1,6 @@
 {
     "id": 874409629,
     "name": "other_mining",
-    "label": "Other Mining"
+    "label": "Other Mining",
+    "parent_id": 874408055
 }

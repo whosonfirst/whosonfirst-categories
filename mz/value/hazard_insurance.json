@@ -1,5 +1,6 @@
 {
     "id": 874409837,
     "name": "hazard_insurance",
-    "label": "Hazard Insurance"
+    "label": "Hazard Insurance",
+    "parent_id": 874408045
 }

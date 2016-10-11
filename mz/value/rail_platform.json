@@ -1,5 +1,7 @@
 {
     "id": 874408783,
     "name": "rail_platform",
-    "label": null
+    "label": "Rail Platform",
+    "mz:rank": 865,
+    "parent_id": 874407955
 }

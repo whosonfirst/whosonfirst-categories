@@ -1,5 +1,6 @@
 {
     "id": 874408513,
     "name": "dry_cleaning",
-    "label": "Dry Cleaning"
+    "label": "Dry Cleaning",
+    "parent_id": 874408045
 }

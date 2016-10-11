@@ -1,5 +1,6 @@
 {
     "id": 874409983,
     "name": "medical_lab",
-    "label": "Medical Lab"
+    "label": "Medical Lab",
+    "parent_id": 874408021
 }

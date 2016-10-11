@@ -1,5 +1,6 @@
 {
     "id": 874408911,
     "name": "waste_bin",
-    "label": "Waste Bin"
+    "label": "Waste Bin",
+    "parent_id": 874407991
 }

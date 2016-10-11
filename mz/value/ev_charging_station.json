@@ -1,5 +1,6 @@
 {
     "id": 874408571,
     "name": "ev_charging_station",
-    "label": "EV Charging Station"
+    "label": "EV Charging Station",
+    "parent_id": 874407955
 }

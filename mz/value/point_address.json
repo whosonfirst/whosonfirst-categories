@@ -1,5 +1,6 @@
 {
     "id": 874408985,
     "name": "point_address",
-    "label": "Point Address"
+    "label": "Point Address",
+    "parent_id": 874407891
 }

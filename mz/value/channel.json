@@ -1,5 +1,6 @@
 {
     "id": 874409691,
     "name": "channel",
-    "label": "Channel"
+    "label": "Channel",
+    "parent_id": 874407845
 }

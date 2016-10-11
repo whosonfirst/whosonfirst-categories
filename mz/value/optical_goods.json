@@ -1,5 +1,6 @@
 {
     "id": 874409991,
     "name": "optical_goods",
-    "label": "Optical Goods"
+    "label": "Optical Goods",
+    "parent_id": 874408107
 }

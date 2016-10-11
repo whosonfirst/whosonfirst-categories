@@ -1,5 +1,6 @@
 {
     "id": 874408789,
     "name": "airport_gate",
-    "label": "Airport Gate"
+    "label": "Airport Gate",
+    "parent_id": 874407955
 }

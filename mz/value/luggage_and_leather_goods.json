@@ -1,5 +1,6 @@
 {
     "id": 874409871,
     "name": "luggage_and_leather_goods",
-    "label": "Luggage & Leather Goods"
+    "label": "Luggage & Leather Goods",
+    "parent_id": 874408107
 }

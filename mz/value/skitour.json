@@ -1,5 +1,6 @@
 {
     "id": 874409131,
     "name": "skitour",
-    "label": "Skitour"
+    "label": "Skitour",
+    "parent_id": 874408001
 }

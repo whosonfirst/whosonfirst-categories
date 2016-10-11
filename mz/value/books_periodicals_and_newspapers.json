@@ -1,5 +1,6 @@
 {
     "id": 874409735,
     "name": "books_periodicals_and_newspapers",
-    "label": "Books, Periodicals, & Newspapers"
+    "label": "Books, Periodicals, & Newspapers",
+    "parent_id": 874408055
 }

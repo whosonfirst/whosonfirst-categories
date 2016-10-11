@@ -1,5 +1,6 @@
 {
     "id": 874409495,
     "name": "banquet_hall",
-    "label": "Banquet Hall"
+    "label": "Banquet Hall",
+    "parent_id": 874407967
 }

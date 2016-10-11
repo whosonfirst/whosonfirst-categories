@@ -1,5 +1,6 @@
 {
     "id": 874409761,
     "name": "music_publishers",
-    "label": "Music Publishers"
+    "label": "Music Publishers",
+    "parent_id": 874408055
 }

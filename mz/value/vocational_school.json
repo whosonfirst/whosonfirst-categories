@@ -1,5 +1,6 @@
 {
     "id": 874409677,
     "name": "vocational_school",
-    "label": "Vocational School"
+    "label": "Vocational School",
+    "parent_id": 874407963
 }

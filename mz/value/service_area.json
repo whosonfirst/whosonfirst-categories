@@ -1,5 +1,6 @@
 {
     "id": 874407997,
     "name": "service_area",
-    "label": "Highway Service Area"
+    "label": "Highway Service Area",
+    "parent_id": 874407955
 }

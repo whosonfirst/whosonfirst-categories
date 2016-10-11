@@ -1,5 +1,6 @@
 {
     "id": 874408605,
     "name": "lawyer_and_legal_services",
-    "label": "Lawyer & Legal Services"
+    "label": "Lawyer & Legal Services",
+    "parent_id": 874408045
 }

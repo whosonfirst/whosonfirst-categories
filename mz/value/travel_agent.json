@@ -1,5 +1,6 @@
 {
     "id": 874408705,
     "name": "travel_agent",
-    "label": "Travel Agent"
+    "label": "Travel Agent",
+    "parent_id": 874408045
 }

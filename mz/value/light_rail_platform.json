@@ -1,5 +1,7 @@
 {
     "id": 874408777,
     "name": "light_rail_platform",
-    "label": "Light Rail Platform"
+    "label": "Light Rail Platform",
+    "mz:rank": 868,
+    "parent_id": 874407955
 }

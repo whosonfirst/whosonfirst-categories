@@ -1,5 +1,6 @@
 {
     "id": 874409425,
     "name": "paper_products",
-    "label": "Paper Products"
+    "label": "Paper Products",
+    "parent_id": 874408055
 }

@@ -1,5 +1,6 @@
 {
     "id": 874409765,
     "name": "office_equipment",
-    "label": "Office Equipment"
+    "label": "Office Equipment",
+    "parent_id": 874408055
 }

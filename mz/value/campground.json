@@ -1,5 +1,6 @@
 {
     "id": 874408229,
     "name": "campground",
-    "label": null
+    "label": "Campground",
+    "parent_id": 874407981
 }

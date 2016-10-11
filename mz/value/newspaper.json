@@ -1,5 +1,6 @@
 {
     "id": 874408627,
     "name": "newspaper",
-    "label": "Newspaper"
+    "label": "Newspaper",
+    "parent_id": 874408045
 }

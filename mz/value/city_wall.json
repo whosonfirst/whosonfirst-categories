@@ -1,5 +1,6 @@
 {
     "id": 874408083,
     "name": "city_wall",
-    "label": "City Wall"
+    "label": "City Wall",
+    "parent_id": 874407929
 }

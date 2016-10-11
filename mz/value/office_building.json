@@ -1,5 +1,6 @@
 {
     "id": 874408559,
     "name": "office_building",
-    "label": "Office Building"
+    "label": "Office Building",
+    "parent_id": 874407991
 }

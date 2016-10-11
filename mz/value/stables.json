@@ -1,5 +1,6 @@
 {
     "id": 874409911,
     "name": "stables",
-    "label": "Stables"
+    "label": "Stables",
+    "parent_id": 874407967
 }

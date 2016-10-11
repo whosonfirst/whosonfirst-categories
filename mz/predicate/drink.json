@@ -1,5 +1,7 @@
 {
     "id": 874408265,
     "name": "drink",
-    "label": "Drink"
+    "label": "Drink",
+    "mz:rank": 2,
+    "parent_id": 874408263
 }

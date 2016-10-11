@@ -1,5 +1,6 @@
 {
     "id": 874408409,
     "name": "beauty_and_cosmetics",
-    "label": "Beauty & Cosmetics"
+    "label": "Beauty & Cosmetics",
+    "parent_id": 874408107
 }

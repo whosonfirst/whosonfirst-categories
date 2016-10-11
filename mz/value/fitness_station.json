@@ -1,5 +1,6 @@
 {
     "id": 874408575,
     "name": "fitness_station",
-    "label": "Fitness Station"
+    "label": "Fitness Station",
+    "parent_id": 874407967
 }

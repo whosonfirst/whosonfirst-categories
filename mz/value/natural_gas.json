@@ -1,5 +1,6 @@
 {
     "id": 874408763,
     "name": "natural_gas",
-    "label": "Natural Gas"
+    "label": "Natural Gas",
+    "parent_id": 874408045
 }

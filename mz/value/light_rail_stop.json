@@ -1,5 +1,7 @@
 {
     "id": 874408999,
     "name": "light_rail_stop",
-    "label": "Light Rail Stop"
+    "label": "Light Rail Stop",
+    "mz:rank": 867,
+    "parent_id": 874407955
 }

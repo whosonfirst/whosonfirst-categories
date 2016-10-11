@@ -1,5 +1,6 @@
 {
     "id": 874409675,
     "name": "special_training",
-    "label": "Special Training"
+    "label": "Special Training",
+    "parent_id": 874407963
 }

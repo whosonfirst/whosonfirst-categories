@@ -1,5 +1,6 @@
 {
     "id": 874408883,
     "name": "post_box",
-    "label": "Post Box"
+    "label": "Post Box",
+    "parent_id": 874407991
 }

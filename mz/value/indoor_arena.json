@@ -1,5 +1,6 @@
 {
     "id": 874409901,
     "name": "indoor_arena",
-    "label": "Indoor Arena"
+    "label": "Indoor Arena",
+    "parent_id": 874407967
 }

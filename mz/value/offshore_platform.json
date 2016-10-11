@@ -1,5 +1,6 @@
 {
     "id": 874408011,
     "name": "offshore_platform",
-    "label": "Offshore Platform"
+    "label": "Offshore Platform",
+    "parent_id": 874407991
 }

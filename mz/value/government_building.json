@@ -1,5 +1,6 @@
 {
     "id": 874408123,
     "name": "government_building",
-    "label": "Government Building"
+    "label": "Government Building",
+    "parent_id": 874407991
 }

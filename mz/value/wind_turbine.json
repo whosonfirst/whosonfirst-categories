@@ -1,5 +1,6 @@
 {
     "id": 874408737,
     "name": "wind_turbine",
-    "label": "Wind Turbine"
+    "label": "Wind Turbine",
+    "parent_id": 874407991
 }

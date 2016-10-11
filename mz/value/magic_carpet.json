@@ -1,5 +1,6 @@
 {
     "id": 874409105,
     "name": "magic_carpet",
-    "label": "Magic Carpet"
+    "label": "Magic Carpet",
+    "parent_id": 874408001
 }

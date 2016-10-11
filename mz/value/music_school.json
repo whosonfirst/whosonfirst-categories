@@ -1,5 +1,6 @@
 {
     "id": 874409673,
     "name": "music_school",
-    "label": "Music School"
+    "label": "Music School",
+    "parent_id": 874407963
 }

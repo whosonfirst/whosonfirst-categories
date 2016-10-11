@@ -1,5 +1,6 @@
 {
     "id": 874409057,
     "name": "rail_yard",
-    "label": "Rail Yard"
+    "label": "Rail Yard",
+    "parent_id": 874408001
 }

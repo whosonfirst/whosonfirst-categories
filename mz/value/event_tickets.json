@@ -1,5 +1,6 @@
 {
     "id": 874409635,
     "name": "event_tickets",
-    "label": "Event Tickets"
+    "label": "Event Tickets",
+    "parent_id": 874408107
 }

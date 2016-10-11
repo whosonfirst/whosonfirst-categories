@@ -1,5 +1,6 @@
 {
     "id": 874409323,
     "name": "parking_lot",
-    "label": "Parking Lot"
+    "label": "Parking Lot",
+    "parent_id": 874407955
 }

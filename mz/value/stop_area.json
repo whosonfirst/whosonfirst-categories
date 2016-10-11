@@ -1,5 +1,6 @@
 {
     "id": 874408785,
     "name": "stop_area",
-    "label": null
+    "label": "Stop Area",
+    "parent_id": 874407955
 }

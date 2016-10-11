@@ -1,5 +1,6 @@
 {
     "id": 874409307,
     "name": "department_of_motor_vehicles",
-    "label": "Department of Motor Vehicles"
+    "label": "Department of Motor Vehicles",
+    "parent_id": 874408045
 }

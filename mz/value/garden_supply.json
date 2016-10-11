@@ -1,5 +1,6 @@
 {
     "id": 874409797,
     "name": "garden_supply",
-    "label": "Garden Supply"
+    "label": "Garden Supply",
+    "parent_id": 874408107
 }

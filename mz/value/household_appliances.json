@@ -1,5 +1,6 @@
 {
     "id": 874409799,
     "name": "household_appliances",
-    "label": "Household Appliances"
+    "label": "Household Appliances",
+    "parent_id": 874408107
 }

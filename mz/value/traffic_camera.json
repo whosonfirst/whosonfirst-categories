@@ -1,5 +1,6 @@
 {
     "id": 874409393,
     "name": "traffic_camera",
-    "label": "Traffic Camera"
+    "label": "Traffic Camera",
+    "parent_id": 874408001
 }

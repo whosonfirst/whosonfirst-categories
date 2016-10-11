@@ -1,5 +1,6 @@
 {
     "id": 874409889,
     "name": "basketball_stadium",
-    "label": "Basketball Stadium"
+    "label": "Basketball Stadium",
+    "parent_id": 874407967
 }

@@ -1,5 +1,6 @@
 {
     "id": 874409997,
     "name": "membership_organization",
-    "label": "Membership Organization"
+    "label": "Membership Organization",
+    "parent_id": 874408045
 }

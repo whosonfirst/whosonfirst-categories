@@ -1,5 +1,6 @@
 {
     "id": 874409277,
     "name": "discount_and_variety_store",
-    "label": "Discount & Variety Store"
+    "label": "Discount & Variety Store",
+    "parent_id": 874408107
 }

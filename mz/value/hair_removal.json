@@ -1,5 +1,6 @@
 {
     "id": 874409167,
     "name": "hair_removal",
-    "label": "Hair Removal"
+    "label": "Hair Removal",
+    "parent_id": 874408045
 }

@@ -1,5 +1,6 @@
 {
     "id": 874408143,
     "name": "wilderness_hut",
-    "label": "Wilderness Hut"
+    "label": "Wilderness Hut",
+    "parent_id": 874407967
 }

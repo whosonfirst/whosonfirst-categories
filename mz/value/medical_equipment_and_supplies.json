@@ -1,5 +1,6 @@
 {
     "id": 874408659,
     "name": "medical_equipment_and_supplies",
-    "label": "Medical Equipment & Supplies"
+    "label": "Medical Equipment & Supplies",
+    "parent_id": 874408055
 }

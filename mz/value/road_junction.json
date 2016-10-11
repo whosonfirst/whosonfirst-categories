@@ -1,5 +1,6 @@
 {
     "id": 874408003,
     "name": "road_junction",
-    "label": "Road Junction"
+    "label": "Road Junction",
+    "parent_id": 874408001
 }

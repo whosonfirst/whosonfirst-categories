@@ -1,5 +1,6 @@
 {
     "id": 874408801,
     "name": "ice_rink",
-    "label": "Ice Rink"
+    "label": "Ice Rink",
+    "parent_id": 874407967
 }

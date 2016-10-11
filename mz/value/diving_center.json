@@ -1,5 +1,6 @@
 {
     "id": 874409959,
     "name": "diving_center",
-    "label": "Diving Center"
+    "label": "Diving Center",
+    "parent_id": 874407967
 }

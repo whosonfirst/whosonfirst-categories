@@ -1,5 +1,6 @@
 {
     "id": 874408773,
     "name": "stop",
-    "label": "Stop"
+    "label": "Stop",
+    "mz:rank": 999
 }

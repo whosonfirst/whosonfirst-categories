@@ -1,5 +1,6 @@
 {
     "id": 874409645,
     "name": "design_studio",
-    "label": "Design Studio"
+    "label": "Design Studio",
+    "parent_id": 874408045
 }

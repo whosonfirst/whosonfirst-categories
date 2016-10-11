@@ -1,5 +1,6 @@
 {
     "id": 874409831,
     "name": "freight_rail",
-    "label": "Freight Rail"
+    "label": "Freight Rail",
+    "parent_id": 874408001
 }

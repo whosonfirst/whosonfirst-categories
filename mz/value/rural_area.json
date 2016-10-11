@@ -1,5 +1,6 @@
 {
     "id": 874408823,
     "name": "rural_area",
-    "label": "Rural Area"
+    "label": "Rural Area",
+    "parent_id": 874407891
 }

@@ -1,5 +1,6 @@
 {
     "id": 874408393,
     "name": "bureau_de_change",
-    "label": "Bureau De Change"
+    "label": "Bureau De Change",
+    "parent_id": 874408389
 }

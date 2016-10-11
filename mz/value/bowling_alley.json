@@ -1,5 +1,6 @@
 {
     "id": 874408189,
     "name": "bowling_alley",
-    "label": "Bowling Alley"
+    "label": "Bowling Alley",
+    "parent_id": 874407967
 }

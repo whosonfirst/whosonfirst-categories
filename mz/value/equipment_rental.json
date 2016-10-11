@@ -1,5 +1,6 @@
 {
     "id": 874409485,
     "name": "equipment_rental",
-    "label": "Equipment Rental"
+    "label": "Equipment Rental",
+    "parent_id": 874408045
 }

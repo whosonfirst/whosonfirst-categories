@@ -1,5 +1,6 @@
 {
     "id": 874409143,
     "name": "ski_jump",
-    "label": "Ski Jump"
+    "label": "Ski Jump",
+    "parent_id": 874408001
 }

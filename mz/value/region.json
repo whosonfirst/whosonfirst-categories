@@ -1,5 +1,6 @@
 {
     "id": 874407909,
     "name": "region",
-    "label": null
+    "label": "Region",
+    "parent_id": 874407891
 }

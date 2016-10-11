@@ -1,5 +1,6 @@
 {
     "id": 874407943,
     "name": "nature_reserve",
-    "label": "Nature Reserve"
+    "label": "Nature Reserve",
+    "parent_id": 874407929
 }

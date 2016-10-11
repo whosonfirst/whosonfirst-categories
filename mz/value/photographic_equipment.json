@@ -1,5 +1,6 @@
 {
     "id": 874409773,
     "name": "photographic_equipment",
-    "label": null
+    "label": "Photographic Equipment",
+    "parent_id": 874408055
 }

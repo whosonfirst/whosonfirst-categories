@@ -1,5 +1,6 @@
 {
     "id": 874408529,
     "name": "tourist_information",
-    "label": "Tourist Information"
+    "label": "Tourist Information",
+    "parent_id": 874407929
 }

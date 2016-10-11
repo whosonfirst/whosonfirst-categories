@@ -1,5 +1,6 @@
 {
     "id": 874408831,
     "name": "industrial_zone",
-    "label": "Industrial Zone"
+    "label": "Industrial Zone",
+    "parent_id": 874407891
 }

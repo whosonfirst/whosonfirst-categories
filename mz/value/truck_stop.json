@@ -1,5 +1,6 @@
 {
     "id": 874409395,
     "name": "truck_stop",
-    "label": "Truck Stop"
+    "label": "Truck Stop",
+    "parent_id": 874408001
 }

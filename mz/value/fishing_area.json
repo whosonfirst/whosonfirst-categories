@@ -1,5 +1,6 @@
 {
     "id": 874408525,
     "name": "fishing_area",
-    "label": "Fishing Area"
+    "label": "Fishing Area",
+    "parent_id": 874407967
 }

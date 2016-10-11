@@ -1,5 +1,6 @@
 {
     "id": 874409809,
     "name": "credit_reporting_and_collection",
-    "label": "Credit Reporting & Collection"
+    "label": "Credit Reporting & Collection",
+    "parent_id": 874408045
 }

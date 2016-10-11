@@ -1,5 +1,6 @@
 {
     "id": 874409447,
     "name": "tobacco_products",
-    "label": null
+    "label": "Tobacco Products",
+    "parent_id": 874408055
 }

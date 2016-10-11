@@ -1,5 +1,6 @@
 {
     "id": 874409671,
     "name": "taxi_stand",
-    "label": "Taxi Stand"
+    "label": "Taxi Stand",
+    "parent_id": 874407955
 }

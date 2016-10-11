@@ -1,5 +1,6 @@
 {
     "id": 874408117,
     "name": "police_station",
-    "label": "Police Station"
+    "label": "Police Station",
+    "parent_id": 874407991
 }

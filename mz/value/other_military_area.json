@@ -1,5 +1,6 @@
 {
     "id": 874407993,
     "name": "other_military_area",
-    "label": "Other Military Area"
+    "label": "Other Military Area",
+    "parent_id": 874407991
 }

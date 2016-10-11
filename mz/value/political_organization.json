@@ -1,5 +1,6 @@
 {
     "id": 874408647,
     "name": "political_organization",
-    "label": "Political Organization"
+    "label": "Political Organization",
+    "parent_id": 874408045
 }

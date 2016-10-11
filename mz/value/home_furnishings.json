@@ -1,5 +1,6 @@
 {
     "id": 874408625,
     "name": "home_furnishings",
-    "label": null
+    "label": "Home Furnishings",
+    "parent_id": 874408055
 }

@@ -1,5 +1,6 @@
 {
     "id": 874408343,
     "name": "frozen_yogurt",
-    "label": "Frozen Yogurt"
+    "label": "Frozen Yogurt",
+    "parent_id": 874408281
 }

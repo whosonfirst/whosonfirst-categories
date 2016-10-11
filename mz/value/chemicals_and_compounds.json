@@ -1,5 +1,6 @@
 {
     "id": 874409403,
     "name": "chemicals_and_compounds",
-    "label": "Chemicals & Compounds"
+    "label": "Chemicals & Compounds",
+    "parent_id": 874408055
 }

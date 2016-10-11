@@ -1,5 +1,6 @@
 {
     "id": 874409089,
     "name": "gondola",
-    "label": "Gondola"
+    "label": "Gondola",
+    "parent_id": 874408001
 }

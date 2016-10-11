@@ -1,5 +1,6 @@
 {
     "id": 874409981,
     "name": "marijuana_dispensary",
-    "label": "Marijuana Dispensary"
+    "label": "Marijuana Dispensary",
+    "parent_id": 874408021
 }

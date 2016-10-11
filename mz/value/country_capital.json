@@ -1,5 +1,6 @@
 {
     "id": 874409605,
     "name": "country_capital",
-    "label": "Country capital"
+    "label": "Country capital",
+    "parent_id": 874407891
 }

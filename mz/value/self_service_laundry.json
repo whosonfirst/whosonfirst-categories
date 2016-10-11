@@ -1,5 +1,6 @@
 {
     "id": 874409659,
     "name": "self_service_laundry",
-    "label": "Self-service Laundry"
+    "label": "Self-service Laundry",
+    "parent_id": 874408045
 }

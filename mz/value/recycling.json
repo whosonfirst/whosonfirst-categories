@@ -1,5 +1,6 @@
 {
     "id": 874408537,
     "name": "recycling",
-    "label": "Recycling"
+    "label": "Recycling",
+    "parent_id": 874408045
 }

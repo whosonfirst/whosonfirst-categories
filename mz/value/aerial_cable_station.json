@@ -1,5 +1,7 @@
 {
     "id": 874408173,
     "name": "aerial_cable_station",
-    "label": "Aerial Cable Station"
+    "label": "Aerial Cable Station",
+    "mz:rank": 124,
+    "parent_id": 874407955
 }

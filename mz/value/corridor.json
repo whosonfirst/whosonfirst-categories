@@ -1,5 +1,6 @@
 {
     "id": 874409045,
     "name": "corridor",
-    "label": "Corridor"
+    "label": "Corridor",
+    "parent_id": 874408001
 }

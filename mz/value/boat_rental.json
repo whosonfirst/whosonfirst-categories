@@ -1,5 +1,6 @@
 {
     "id": 874408521,
     "name": "boat_rental",
-    "label": null
+    "label": "Boat Rental",
+    "parent_id": 874407967
 }

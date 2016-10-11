@@ -1,5 +1,6 @@
 {
     "id": 874407881,
     "name": "stream",
-    "label": "Stream"
+    "label": "Stream",
+    "parent_id": 874407845
 }

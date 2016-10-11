@@ -1,5 +1,6 @@
 {
     "id": 874409515,
     "name": "dance_studio",
-    "label": "Dance Studio"
+    "label": "Dance Studio",
+    "parent_id": 874407967
 }

@@ -1,5 +1,6 @@
 {
     "id": 874409727,
     "name": "postal_code",
-    "label": "Postal Code"
+    "label": "Postal Code",
+    "parent_id": 874407891
 }

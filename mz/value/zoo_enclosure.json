@@ -1,5 +1,6 @@
 {
     "id": 874408155,
     "name": "zoo_enclosure",
-    "label": "Zoo Enclosure"
+    "label": "Zoo Enclosure",
+    "parent_id": 874407967
 }

@@ -1,5 +1,6 @@
 {
     "id": 874408087,
     "name": "comedy_club",
-    "label": "Comedy Club"
+    "label": "Comedy Club",
+    "parent_id": 874407967
 }

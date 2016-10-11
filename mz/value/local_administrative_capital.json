@@ -1,5 +1,6 @@
 {
     "id": 874409613,
     "name": "local_administrative_capital",
-    "label": "Local Administrative Capital"
+    "label": "Local Administrative Capital",
+    "parent_id": 874407891
 }

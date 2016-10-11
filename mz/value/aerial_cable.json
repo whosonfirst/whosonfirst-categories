@@ -1,5 +1,6 @@
 {
     "id": 874409619,
     "name": "aerial_cable",
-    "label": "Aerial Cable"
+    "label": "Aerial Cable",
+    "parent_id": 874408001
 }

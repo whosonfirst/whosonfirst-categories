@@ -1,5 +1,6 @@
 {
     "id": 874409217,
     "name": "junior_college",
-    "label": "Junior College"
+    "label": "Junior College",
+    "parent_id": 874407963
 }

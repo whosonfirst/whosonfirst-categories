@@ -1,5 +1,6 @@
 {
     "id": 874408903,
     "name": "cycle_barrier",
-    "label": "Cycle Barrier"
+    "label": "Cycle Barrier",
+    "parent_id": 874408001
 }

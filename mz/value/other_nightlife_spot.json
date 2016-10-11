@@ -1,5 +1,6 @@
 {
     "id": 874409313,
     "name": "other_nightlife_spot",
-    "label": "Other Nightlife Spot"
+    "label": "Other Nightlife Spot",
+    "parent_id": 874407967
 }

@@ -1,5 +1,6 @@
 {
     "id": 874408881,
     "name": "bicycle_repair_station",
-    "label": "Bicycle Repair Station"
+    "label": "Bicycle Repair Station",
+    "parent_id": 874407991
 }

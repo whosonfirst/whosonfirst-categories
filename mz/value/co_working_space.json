@@ -1,5 +1,6 @@
 {
     "id": 874408555,
     "name": "co_working_space",
-    "label": "Co-working Space"
+    "label": "Co-working Space",
+    "parent_id": 874407991
 }

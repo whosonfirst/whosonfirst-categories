@@ -1,5 +1,6 @@
 {
     "id": 874409187,
     "name": "movie_rental",
-    "label": "Movie Rental"
+    "label": "Movie Rental",
+    "parent_id": 874407967
 }

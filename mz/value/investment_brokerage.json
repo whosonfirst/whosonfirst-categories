@@ -1,5 +1,6 @@
 {
     "id": 874409669,
     "name": "investment_brokerage",
-    "label": "Investment Brokerage"
+    "label": "Investment Brokerage",
+    "parent_id": 874408389
 }

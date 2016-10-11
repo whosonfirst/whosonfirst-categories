@@ -1,5 +1,6 @@
 {
     "id": 874409209,
     "name": "conference_center",
-    "label": "Conference Center"
+    "label": "Conference Center",
+    "parent_id": 874407929
 }

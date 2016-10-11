@@ -1,5 +1,6 @@
 {
     "id": 874409299,
     "name": "recreational_vehicle_sales",
-    "label": "Recreational Vehicle Sales"
+    "label": "Recreational Vehicle Sales",
+    "parent_id": 874408045
 }

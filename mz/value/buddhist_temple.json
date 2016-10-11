@@ -1,5 +1,6 @@
 {
     "id": 874408067,
     "name": "buddhist_temple",
-    "label": "Buddhist Temple"
+    "label": "Buddhist Temple",
+    "parent_id": 874408065
 }

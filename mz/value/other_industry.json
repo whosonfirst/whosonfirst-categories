@@ -1,5 +1,6 @@
 {
     "id": 874409835,
     "name": "other_industry",
-    "label": "Other Industry"
+    "label": "Other Industry",
+    "parent_id": 874408055
 }

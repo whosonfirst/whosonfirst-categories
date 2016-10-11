@@ -1,5 +1,6 @@
 {
     "id": 874408929,
     "name": "power_pylon",
-    "label": "Power Pylon"
+    "label": "Power Pylon",
+    "parent_id": 874407991
 }

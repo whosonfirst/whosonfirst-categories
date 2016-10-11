@@ -1,5 +1,6 @@
 {
     "id": 874409291,
     "name": "used_merchandise",
-    "label": "Used Merchandise"
+    "label": "Used Merchandise",
+    "parent_id": 874408107
 }
