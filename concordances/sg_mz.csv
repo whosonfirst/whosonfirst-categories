@@ -1,2 +1,382 @@
 sg:machinetag,mz:machinetag
-services:social_services=child_care,shop_and_service:service=child_care
+"Public Place:Park=National",do_and_see:attraction=national_park
+"Public Place:Education=University",education_and_religion:education=university
+"Services:Health Services=Hospital",health:health=hospital
+"Entertainment:Recreation=Theme Park",do_and_see:fun=theme_park
+Entertainment:Museum=Zoo,do_and_see:fun=zoo
+"Public Place:Park=County",do_and_see:attraction=county_park
+"Public Place:Park=Provincial",do_and_see:attraction=provincial_park
+"Public Place:Park=Municipal",do_and_see:attraction=municipal_park
+"Entertainment:Sports & Exercise=Golf",do_and_see:fun=golf_course
+Entertainment:Museum=Aquarium,do_and_see:fun=aquarium
+"Public Place:Education=College",education_and_religion:education=college
+Entertainment:Arena=Stadium,do_and_see:fun=stadium
+"Public Place:Structure=Shopping Mall",shop_and_service:shop=shopping_mall
+"Entertainment:Museum=History Museum",do_and_see:fun=history_museum
+"Entertainment:Recreation=Amusement Park",do_and_see:fun=amusement_park
+"Entertainment:Museum=Art Museum",do_and_see:fun=art_museum
+"Entertainment:Arts & Performance=Opera",do_and_see:fun=opera
+"Entertainment:Arts & Performance=Symphony",do_and_see:fun=symphony
+"Public Place:Education=School",education_and_religion:education=school
+"Public Place:Landmark=Scenic View",do_and_see:attraction=scenic_view
+"Entertainment:Cinema=Movie Theater",do_and_see:fun=movie_theater
+"Public Place:Government=Prison",other:civic=prison
+"Public Place:Landmark=Unesco World Heritage Site",do_and_see:attraction=unesco_world_heritage_site
+"Public Place:Government=Jail",other:civic=jail
+"Public Place:Government=Palace",other:civic=palace
+"Public Place:Military Area=Army Base",other:civic=army_base
+"Public Place:Military Area=Air Force Base",other:civic=air_force_base
+"Public Place:Military Area=Naval Base",other:civic=naval_base
+"Public Place:Military Area=Coast Guard Base",other:civic=coast_guard_base
+Transportation:Airport=International,mobility:mobility=international_terminal
+"Public Place:Education=Junior College",education_and_religion:education=junior_college
+"Entertainment:Arena=Auto Racetrack",do_and_see:fun=auto_racetrack
+"Entertainment:Arena=Horse Racetrack",do_and_see:fun=horse_racetrack
+"Entertainment:Arena=Indoor Arena",do_and_see:fun=indoor_arena
+"Entertainment:Sports & Exercise=Skate Park",do_and_see:fun=skate_park
+Services:Utilities=Sewage,shop_and_service:service=sewage
+Services:Utilities=Water,shop_and_service:service=water
+Entertainment:Recreation=Marina,do_and_see:fun=marina
+"Services:Utilities=Fuel Oil & LPG",shop_and_service:service=fuel_oil_and_lpg
+"Food & Drink:Bars & Pubs=Nightclub",do_and_see:fun=nightclub
+"Entertainment:Sports & Exercise=Bowling",do_and_see:fun=bowling_alley
+"Retail Goods:Shopping=Pharmacy",health:health=pharmacy
+"Services:Health Services=Clinic",health:health=clinic
+"Public Place:Education=Library",do_and_see:attraction=library
+"Public Place:Landmark=City Walls",do_and_see:attraction=city_walls
+"Entertainment:Arts & Performance=Comedy Club",do_and_see:fun=comedy_club
+"Entertainment:Arts & Performance=Theater",do_and_see:fun=theater
+"Entertainment:Recreation=Water Park",do_and_see:fun=water_park
+Entertainment:Travel=Resort,shop_and_service:sleep=resort
+"Public Place:Government=Police Station",other:civic=police_station
+"Public Place:Government=Post Office",shop_and_service:service=post_office
+"Public Place:Government=Court House",shop_and_service:service=court_house
+"Public Place:Government=Embassy",other:civic=embassy
+"Public Place:Government=Fire Station",other:civic=fire_station
+"Public Place:Landmark=Historic",do_and_see:attraction=historic_landmark
+"Retail Goods:Shopping=Department Store",shop_and_service:shop=department_store
+"Entertainment:Cinema=Drive-in Theater",do_and_see:fun=drive_in_theater
+"Entertainment:Arts & Performance=Circus",do_and_see:fun=circus
+"Entertainment:Arts & Performance=Festival",do_and_see:fun=festival
+"Entertainment:Sports & Exercise=Sports Center",do_and_see:fun=sports_center
+"Public Place:Government=City Hall",other:civic=city_hall
+"Entertainment:Travel=Hotels & Motels",shop_and_service:sleep=hotel
+Entertainment:Travel=Campground,shop_and_service:sleep=campground
+"Public Place:Place Of Worship=Synagogue",education_and_religion:religion=synagogue
+"Public Place:Place Of Worship=Temple",education_and_religion:religion=temple
+"Retail Goods:Autos & Motor Vehicles=Fuel & Gas Station",mobility:mobility=gas_station
+"Public Place:Landmark=Monument",do_and_see:attraction=monument
+"Retail Goods:Autos & Motor Vehicles=Automobile Sales",shop_and_service:service=automobile_sales
+"Entertainment:Museum=Botanical Garden",do_and_see:fun=botanical_garden
+"Entertainment:Recreation=Dance Hall",do_and_see:fun=dance_hall
+Entertainment:Recreation=Gardens,do_and_see:attraction=community_garden
+"Entertainment:Sports & Exercise=Athletic Track",do_and_see:fun=athletic_track
+"Entertainment:Recreation=Miniature Golf",do_and_see:fun=miniature_golf
+"Retail Goods:Food & Beverages=Groceries & Convenience Stores",shop_and_service:shop=grocery_store
+"Retail Goods:Food & Beverages=Groceries & Convenience Stores",shop_and_service:shop=convenience_store
+"Public Place:Landmark=Marketplace",do_and_see:attraction=marketplace
+"Public Place:Community Center=Social",do_and_see:attraction=social_center
+"Food & Drink:Bars & Pubs=Biergarten",eat_and_drink:drink=biergarten
+"Entertainment:Arts & Performance=Art Gallery",do_and_see:fun=art_gallery
+"Entertainment:Arts & Performance=Jazz & Blues",do_and_see:fun=jazz_and_blues
+"Public Place:Landmark=Tourist Attraction",do_and_see:attraction=tourist_attraction
+"Food & Drink:Juice Bar=None",eat_and_drink:drink=juice_bar
+"Food & Drink:Bars & Pubs=Champagne Bar",eat_and_drink:drink=champagne_bar
+"Food & Drink:Bars & Pubs=Dive Bar",eat_and_drink:drink=dive_bar
+"Food & Drink:Bars & Pubs=Gay Bar",eat_and_drink:drink=gay_bar
+"Food & Drink:Bars & Pubs=Hookah Bar",eat_and_drink:drink=hookah_bar
+"Food & Drink:Bars & Pubs=Lounge",eat_and_drink:drink=lounge
+"Food & Drink:Bars & Pubs=Sports Bar",eat_and_drink:drink=sports_bar
+"Food & Drink:Bars & Pubs=Wine Bar",eat_and_drink:drink=wine_bar
+"Services:Personal=Day Spa",shop_and_service:service=day_spa
+"Services:Retail=Auto Rental",mobility:mobility=car_rental
+"Retail Goods:Shopping=Stationery & Office Supplies",shop_and_service:shop=stationery_and_office_supplies
+"Public Place:Military Area=Airfield",other:civic=airfield
+"Public Place:Military Area=Armory",other:civic=armory
+"Public Place:Military Area=Barracks",other:civic=barracks
+"Public Place:Military Area=Bunker",other:civic=bunker
+"Public Place:Military Area=Restricted Area",other:civic=restricted_area
+"Services:Health Services=Dentist",health:health=dentist
+"Services:Health Services=Doctor",health:health=doctor
+"Services:Health Services=Optometrist",health:health=optometrist
+"Retail Goods:Shopping=Clothing, Apparel, & Fashions",shop_and_service:shop=clothing_store
+"Services:Banks & Credit Unions=Bank",shop_and_service:money=bank
+"Services:Banks & Credit Unions=Bureau De Change",shop_and_service:money=bureau_de_change
+"Services:Banks & Credit Unions=ATM",shop_and_service:money=atm
+"Retail Goods:Shopping=Books",shop_and_service:shop=books
+"Retail Goods:Shopping=Pets & Pet Supplies",shop_and_service:shop=pet_store
+"Retail Goods:Shopping=Beauty & Cosmetics",shop_and_service:shop=beauty_and_cosmetics
+"Retail Goods:Shopping=Florist",shop_and_service:shop=florist
+"Services:Personal=Beauty Salon",shop_and_service:service=beauty_salon
+"Services:Retail=Auto Repair",mobility:mobility=auto_repair
+"Services:Retail=Car Wash",mobility:mobility=car_wash
+"Retail Goods:Food & Beverages=Bakery",shop_and_service:shop=bakery
+"Entertainment:Travel=Bed & Breakfast",shop_and_service:sleep=bed_and_breakfast
+Entertainment:Travel=Chalets,shop_and_service:sleep=chalets
+Entertainment:Travel=Hostel,shop_and_service:sleep=hostel
+Services:Personal=Barber,shop_and_service:service=barber
+"Services:Personal=Nail Salon",shop_and_service:service=nail_salon
+"Services:Personal=Tattoo Parlor",shop_and_service:service=tattoo_parlor
+"Entertainment:Arts & Performance=Arts Center",do_and_see:fun=arts_center
+"Public Place:Structure=Historic Building",do_and_see:attraction=historic_building
+"Public Place:Landmark=Memorial",do_and_see:attraction=memorial
+Entertainment:Recreation=Arcade,do_and_see:fun=arcade
+Services:Utilities=Electric,shop_and_service:service=electric
+"Entertainment:Recreation=Dog Park",do_and_see:attraction=dog_park
+"Retail Goods:Food & Beverages=Cheese",shop_and_service:shop=cheese
+"Retail Goods:Food & Beverages=Chocolate",shop_and_service:shop=chocolate
+"Retail Goods:Food & Beverages=Meat & Fish",shop_and_service:shop=butcher
+"Retail Goods:Food & Beverages=Meat & Fish",shop_and_service:shop=fish_market
+"Entertainment:Cinema=Movie Rental",do_and_see:fun=movie_rental
+"Retail Goods:Autos & Motor Vehicles=Motorcycle Sales",shop_and_service:service=motorcycle_sales
+"Entertainment:Arts & Performance=Dance",do_and_see:fun=dance
+"Entertainment:Sports & Exercise=Gym",do_and_see:fun=gym
+"Public Place:Landmark=Plaza",do_and_see:attraction=plaza
+"Public Place:Landmark=Ruins",do_and_see:attraction=ruins
+"Public Place:Landmark=Square",do_and_see:attraction=square
+"Public Place:Structure=Restrooms",do_and_see:attraction=restrooms
+"Retail Goods:Food & Beverages=Liquor & Beverages",shop_and_service:shop=liquor_store
+"Public Place:Landmark=Archaeological Site",do_and_see:attraction=archaeological_site
+"Public Place:Education=Kindergarten",education_and_religion:education=kindergarten
+"Services:Social Services=Child Care",shop_and_service:service=child_care
+Transportation:Parking=Garage,mobility:mobility=parking_garage
+Transportation:Parking=Lot,mobility:mobility=parking_lot
+"Retail Goods:Shopping=Computers & Home Electronics",shop_and_service:shop=home_electronics
+"Entertainment:Sports & Exercise=Bicycle Rental",do_and_see:fun=bicycle_rental
+"Entertainment:Recreation=Boat Charter",do_and_see:fun=boat_charter
+Entertainment:Recreation=Fishing,do_and_see:fun=fishing_area
+"Public Place:Landmark=Tourist Information",do_and_see:attraction=tourist_information
+"Services:Retail=Laundry & Dry Cleaning",shop_and_service:service=laundry
+"Services:Health Services=Nursing And Care Facility",health:health=nursing_and_care_facility
+Services:Utilities=Recycling,shop_and_service:service=recycling
+"Public Place:Landmark=Fountain",do_and_see:attraction=fountain
+"Public Place:Structure=Office Building",other:civic=office_building
+Services:Professional=Advertising,shop_and_service:service=advertising
+"Services:Real Estate=Architect",shop_and_service:service=architect
+"Services:Organizations=Professional Association",shop_and_service:service=professional_association
+"Services:Banks & Credit Unions=Financial Services",shop_and_service:money=financial_services
+"Services:Building & Trades=Landscaping Services",shop_and_service:service=landscaping_services
+"Entertainment:Sports & Exercise=Ice Rink",do_and_see:fun=ice_rink
+"Retail Goods:Food & Beverages=Candy",shop_and_service:shop=candy
+"Manufacturing & Wholesale Goods:Farming=Farm",other:industry=farm
+"Services:Insurance=Insurance Agent",shop_and_service:service=insurance_agent
+"Services:Professional=Computer Services",shop_and_service:service=computer_services
+"Services:Professional=Management & Consulting",shop_and_service:service=management_and_consulting
+"Services:Professional=Lawyer & Legal Services",shop_and_service:service=lawyer_and_legal_services
+"Manufacturing & Wholesale Goods:Manufacturing=Metals",other:industry=metals
+"Retail Goods:Shopping=Mobile Phones",shop_and_service:shop=mobile_phones
+"Retail Goods:Shopping=Music",shop_and_service:shop=music
+"Retail Goods:Shopping=News",shop_and_service:shop=news
+"Retail Goods:Shopping=Antiques",shop_and_service:shop=antiques
+Services:Communications=Newspaper,shop_and_service:service=newspaper
+"Retail Goods:Shopping=Gifts & Souvenirs",shop_and_service:shop=gifts_and_souvenirs
+"Services:Real Estate=Real Estate Agent",shop_and_service:service=real_estate_agent
+"Services:Building & Trades=Plumbing",shop_and_service:service=plumbing
+"Services:Organizations=Political Organization",shop_and_service:service=political_organization
+"Manufacturing & Wholesale Goods:Manufacturing=Pottery",other:industry=pottery
+Transportation:Airport=Domestic,mobility:mobility=domestic_terminal
+"Retail Goods:Shopping=Thrift Store",shop_and_service:shop=thrift_store
+"Manufacturing & Wholesale Goods:Wholesale=Medical Equipment & Supplies",other:industry=medical_equipment_and_supplies
+Services:Retail=Storage,shop_and_service:service=storage
+"Public Place:Place Of Worship=Shrine",education_and_religion:religion=shrine
+Services:Professional=Research,shop_and_service:service=research
+"Services:Organizations=Non-profit Organization",shop_and_service:service=non_profit_organization
+"Services:Personal=Shoe Repair & Shine",shop_and_service:service=shoe_repair_and_shine
+"Services:Social Services=Adult Care",shop_and_service:service=adult_care
+"Retail Goods:Shopping=Bridal",shop_and_service:shop=bridal
+"Services:Professional=Accounting & Tax Preparation",shop_and_service:service=accounting_and_tax_preparation
+"Entertainment:Travel=Travel Agent",shop_and_service:service=travel_agent
+"Services:Retail=Veterinary Services",shop_and_service:service=veterinary_services
+"Services:Retail=Portrait Studio",shop_and_service:service=portrait_studio
+Services:Retail=Photofinishing,shop_and_service:service=photofinishing
+"Retail Goods:Food & Beverages=Ethnic Foods",shop_and_service:shop=ethnic_foods
+"Retail Goods:Food & Beverages=Farmers Market",shop_and_service:shop=farmers_market
+"Retail Goods:Food & Beverages=Specialty",shop_and_service:shop=specialty
+"Retail Goods:Food & Beverages=Supermarket",shop_and_service:shop=supermarket
+"Retail Goods:Shopping=Tobacco",shop_and_service:shop=tobacco
+"Retail Goods:Shopping=Catalog Store",shop_and_service:shop=catalog_store
+"Retail Goods:Shopping=Discount & Variety Stores",shop_and_service:shop=discount_and_variety_store
+"Retail Goods:Shopping=Pawn Shop",shop_and_service:shop=pawn_shop
+"Retail Goods:Shopping=Used Merchandise",shop_and_service:shop=used_merchandise
+"Retail Goods:Shopping=Comic Books",shop_and_service:shop=comic_books
+"Retail Goods:Shopping=Event Tickets",shop_and_service:shop=event_tickets
+"Retail Goods:Home & Garden=Carpets & Floor Coverings",shop_and_service:shop=carpets_and_floor_coverings
+"Retail Goods:Home & Garden=Garden Supply",shop_and_service:shop=garden_supply
+"Retail Goods:Home & Garden=Household Appliances",shop_and_service:shop=household_appliances
+"Retail Goods:Home & Garden=Kitchen Supply",shop_and_service:shop=kitchen_supply
+"Retail Goods:Shopping=Shoes",shop_and_service:shop=shoes
+"Retail Goods:Shopping=Luggage & Leather Goods",shop_and_service:shop=luggage_and_leather_goods
+"Retail Goods:Shopping=Baby Store",shop_and_service:shop=baby_store
+"Retail Goods:Shopping=Hobbies, Toys, & Games",shop_and_service:shop=hobby_store
+"Retail Goods:Shopping=Adult",shop_and_service:shop=adult_store
+"Retail Goods:Shopping=Optical Goods",shop_and_service:shop=optical_goods
+"Retail Goods:Shopping=Crafts & Fabrics",shop_and_service:shop=crafts_and_fabrics
+"Retail Goods:Shopping=Party Supplies",shop_and_service:shop=party_supplies
+"Services:Personal=Hair Removal",shop_and_service:service=hair_removal
+Services:Personal=Massage,shop_and_service:service=massage
+Services:Personal=Piercing,shop_and_service:service=piercing
+Services:Personal=Sauna,shop_and_service:service=sauna
+"Services:Personal=Skin Care",shop_and_service:service=skin_care
+"Services:Personal=Tanning Parlor",shop_and_service:service=tanning_parlor
+"Retail Goods:Autos & Motor Vehicles=Auto Supplies",shop_and_service:service=auto_supplies
+"Retail Goods:Autos & Motor Vehicles=Boat Sales",shop_and_service:service=boat_sales
+"Retail Goods:Autos & Motor Vehicles=Recreational Vehicle Sales",shop_and_service:service=recreational_vehicle_sales
+"Public Place:Government=Department Of Motor Vehicles",shop_and_service:service=department_of_motor_vehicles
+"Services:Building & Trades=Cleaning & Sanitation",shop_and_service:service=cleaning_and_sanitation
+"Services:Building & Trades=Construction",shop_and_service:service=construction
+"Services:Building & Trades=Equipment Rental",shop_and_service:service=equipment_rental
+"Services:Building & Trades=Landfill",shop_and_service:service=landfill
+"Services:Building & Trades=Locksmith",shop_and_service:service=locksmith
+"Services:Building & Trades=Pest Control",shop_and_service:service=pest_control
+Services:Personal=Adult,shop_and_service:service=adult_service
+"Services:Personal=Psychics & Astrologers",shop_and_service:service=psychics_and_astrologers
+"Services:Retail=Animal Services",shop_and_service:service=animal_services
+"Services:Retail=Driving School",shop_and_service:service=driving_school
+"Services:Retail=Emissions Testing",shop_and_service:service=emissions_testing
+"Services:Retail=Event Space",shop_and_service:service=event_space
+"Services:Retail=Funeral Services",shop_and_service:service=funeral_services
+"Services:Retail=Pet Boarding",shop_and_service:service=pet_boarding
+"Services:Retail=Repair Shop",shop_and_service:service=repair_shop
+"Services:Retail=Self-service Laundry",shop_and_service:service=self_service_laundry
+"Services:Professional=Art Services",shop_and_service:service=art_services
+"Services:Professional=Business Services",shop_and_service:service=business_services
+"Services:Professional=Credit Reporting & Collection",shop_and_service:service=credit_reporting_and_collection
+"Services:Professional=Detective & Security Services",shop_and_service:service=detective_and_security_services
+"Services:Professional=Employment Agencies",shop_and_service:service=employment_agencies
+Services:Professional=Engineering,shop_and_service:service=engineering
+"Services:Professional=Printing & Photocopies",shop_and_service:service=printing_and_photocopies
+"Services:Professional=Secretarial Services",shop_and_service:service=secretarial_services
+"Services:Professional=Testing Lab",shop_and_service:service=testing_lab
+"Services:Insurance=Hazard Insurance",shop_and_service:service=hazard_insurance
+"Services:Insurance=Health Insurance",shop_and_service:service=health_insurance
+"Services:Insurance=Life Insurance",shop_and_service:service=life_insurance
+"Services:Insurance=Title Insurance",shop_and_service:service=title_insurance
+Services:Utilities=Cable,shop_and_service:service=cable
+"Services:Utilities=Mobile Phone",shop_and_service:service=mobile_phone
+"Services:Real Estate=Developer",shop_and_service:service=developer
+"Services:Real Estate=Real Estate Operator",shop_and_service:service=real_estate_operator
+"Services:Real Estate=Real Estate Services",shop_and_service:service=real_estate_services
+"Services:Real Estate=Surveying",shop_and_service:service=surveying
+"Services:Communications=Film & Video Production",shop_and_service:service=film_and_video_production
+"Services:Communications=News Services",shop_and_service:service=news_services
+"Services:Communications=Radio Station",shop_and_service:service=radio_station
+"Services:Communications=Television Station",shop_and_service:service=television_station
+"Services:Organizations=Community Association",shop_and_service:service=community_association
+"Services:Organizations=Labor Organization",shop_and_service:service=labor_organization
+"Services:Organizations=Membership Organization",shop_and_service:service=membership_organization
+"Services:Organizations=Religious Organization",shop_and_service:service=religious_organization
+"Services:Social Services=Job Training",shop_and_service:service=job_training
+"Services:Social Services=Retirement Home",shop_and_service:service=retirement_home
+"Services:Banks & Credit Unions=Investment Brokerage",shop_and_service:money=investment_brokerage
+"Entertainment:Sports & Exercise=Climbing Gym",do_and_see:fun=climbing_gym
+"Public Place:Education=Dance Studio",do_and_see:fun=dance_studio
+"Entertainment:Recreation=Go Karts",do_and_see:fun=go_karts
+"Entertainment:Recreation=Sailing Club",do_and_see:fun=sailing_club
+"Public Place:Community Center=Ethnic",do_and_see:attraction=ethnic_center
+"Public Place:Community Center=Senior",do_and_see:attraction=senior_center
+"Public Place:Community Center=Youth",do_and_see:attraction=youth_center
+"Services:Health Services=Chiropractor",health:health=chiropractor
+"Services:Health Services=Podiatrist",health:health=podiatrist
+"Services:Health Services=Health Practitioner",health:health=health_practitioner
+"Services:Health Services=Hospice",health:health=hospice
+"Services:Health Services=Medical Lab",health:health=medical_lab
+"Food & Drink:Bars & Pubs=Oxygen Bar",health:health=oxygen_bar
+"Transportation:Airport=General Aviation",mobility:mobility=general_aviation
+"Public Place:Education=Preschool",education_and_religion:education=preschool
+"Public Place:Education=Music School",education_and_religion:education=music_school
+"Public Place:Education=Special Training",education_and_religion:education=special_training
+"Public Place:Education=Vocational School",education_and_religion:education=vocational_school
+"Public Place:Place Of Worship=Monastery",education_and_religion:religion=monastery
+"Entertainment:Sports & Exercise=Tennis Court",do_and_see:fun=tennis_court
+"Entertainment:Arena=Bull Ring",do_and_see:fun=bull_ring
+"Entertainment:Recreation=Gun Range",do_and_see:fun=gun_range
+"Entertainment:Sports & Exercise=Race Track",do_and_see:fun=race_track
+"Entertainment:Arena=Sports Club",do_and_see:fun=sports_club
+"Entertainment:Sports & Exercise=Stables",do_and_see:fun=stables
+"Entertainment:Sports & Exercise=Winter Sports",do_and_see:fun=winter_sports
+"Services:Utilities=Natural Gas",shop_and_service:service=natural_gas
+"Entertainment:Sports & Exercise=Ski Slope",fun:play_field=ski_slope
+Transportation:Parking=Bicycle,mobility:mobility=bicycle_parking
+Services:Utilities=Refuse,shop_and_service:service=refuse
+Entertainment:Recreation=Barbecue,do_and_see:attraction=barbecue
+"Public Place:Structure=Tower",other:civic=tower
+"Public Place:Structure=Bridge",other:civic=bridge
+"Public Place:Government=Customs House",other:civic=customs_house
+"Public Place:Structure=Public Building",other:civic=public_building
+"Public Place:Structure=Tunnel",other:civic=tunnel
+"Public Place:Structure=Warehouse",other:civic=warehouse
+"Manufacturing & Wholesale Goods:Farming=Aquatic Farm",other:industry=aquatic_farm
+"Manufacturing & Wholesale Goods:Farming=Berry Farm",other:industry=berry_farm
+"Manufacturing & Wholesale Goods:Farming=Crops",other:industry=crops
+"Manufacturing & Wholesale Goods:Farming=Dairy Farm",other:industry=dairy_farm
+"Manufacturing & Wholesale Goods:Farming=Farm & Veterinary Services",other:industry=farm_and_veterinary_services
+"Manufacturing & Wholesale Goods:Farming=Fish & Marine Products",other:industry=fish_and_marine_products
+"Manufacturing & Wholesale Goods:Farming=Livestock Farm",other:industry=livestock_farm
+"Manufacturing & Wholesale Goods:Farming=Nursery",other:industry=nursery
+"Manufacturing & Wholesale Goods:Farming=Orchard",other:industry=orchard
+"Manufacturing & Wholesale Goods:Farming=Poultry Farm",other:industry=poultry_farm
+"Manufacturing & Wholesale Goods:Manufacturing=Aerospace",other:industry=aerospace
+"Manufacturing & Wholesale Goods:Manufacturing=Building Materials",other:industry=building_materials
+"Manufacturing & Wholesale Goods:Manufacturing=Buildings",other:industry=buildings
+"Manufacturing & Wholesale Goods:Manufacturing=Chemicals & Compounds",other:industry=chemicals_and_compounds
+"Manufacturing & Wholesale Goods:Manufacturing=Electronics",other:industry=electronics
+"Public Place:Structure=Factory",other:industry=factory
+"Manufacturing & Wholesale Goods:Manufacturing=Food",other:industry=food
+"Manufacturing & Wholesale Goods:Manufacturing=Glass & Minerals",other:industry=glass_and_minerals
+"Manufacturing & Wholesale Goods:Manufacturing=Leather Goods",other:industry=leather_goods
+"Manufacturing & Wholesale Goods:Manufacturing=Lumber",other:industry=lumber
+"Retail Goods:Home & Garden=Mobile Homes",other:industry=mobile_homes
+"Manufacturing & Wholesale Goods:Manufacturing=Motor Vehicles & Parts",other:industry=motor_vehicles_and_parts
+"Manufacturing & Wholesale Goods:Manufacturing=Musical Instruments",other:industry=musical_instruments
+"Manufacturing & Wholesale Goods:Manufacturing=Paper Products",other:industry=paper_products
+"Manufacturing & Wholesale Goods:Manufacturing=Pet Food",other:industry=pet_food
+"Manufacturing & Wholesale Goods:Manufacturing=Petroleum Products",other:industry=petroleum_products
+"Manufacturing & Wholesale Goods:Manufacturing=Printing",other:industry=printing
+"Manufacturing & Wholesale Goods:Manufacturing=Retail Goods",other:industry=retail_goods
+"Manufacturing & Wholesale Goods:Manufacturing=Rubber & Plastics",other:industry=rubber_and_plastics
+"Manufacturing & Wholesale Goods:Manufacturing=Signs",other:industry=signs
+"Manufacturing & Wholesale Goods:Manufacturing=Soap",other:industry=soap
+"Manufacturing & Wholesale Goods:Manufacturing=Textiles",other:industry=textiles
+"Manufacturing & Wholesale Goods:Manufacturing=Tools & Machinery",other:industry=tools_and_machinery
+"Manufacturing & Wholesale Goods:Manufacturing=Toys & Sporting Goods",other:industry=toys_and_sporting_goods
+"Manufacturing & Wholesale Goods:Manufacturing=Watercraft",other:industry=watercraft
+"Manufacturing & Wholesale Goods:Manufacturing=Wood Products",other:industry=wood_products
+"Manufacturing & Wholesale Goods:Wholesale=Apparel",other:industry=apparel
+"Manufacturing & Wholesale Goods:Wholesale=Auto Parts",other:industry=auto_parts
+"Manufacturing & Wholesale Goods:Wholesale=Beer",other:industry=beer
+"Manufacturing & Wholesale Goods:Wholesale=Books, Periodicals, & Newspapers",other:industry=books_periodicals_and_newspapers
+"Manufacturing & Wholesale Goods:Wholesale=Chemicals & Plastics",other:industry=chemicals_and_plastics
+"Manufacturing & Wholesale Goods:Wholesale=Computers",other:industry=computers
+"Manufacturing & Wholesale Goods:Wholesale=Construction Materials",other:industry=construction_materials
+"Manufacturing & Wholesale Goods:Wholesale=Dairy",other:industry=dairy
+"Manufacturing & Wholesale Goods:Wholesale=Drugs",other:industry=drugs
+"Manufacturing & Wholesale Goods:Wholesale=Durable Goods & Equipment",other:industry=durable_goods_and_equipment
+"Manufacturing & Wholesale Goods:Wholesale=Electrical",other:industry=electrical
+"Manufacturing & Wholesale Goods:Wholesale=Farm Supplies",other:industry=farm_supplies
+"Manufacturing & Wholesale Goods:Wholesale=Fruits & Vegetables",other:industry=fruits_and_vegetables
+"Manufacturing & Wholesale Goods:Wholesale=Furniture",other:industry=furniture
+"Manufacturing & Wholesale Goods:Wholesale=Groceries",other:industry=groceries
+"Manufacturing & Wholesale Goods:Wholesale=Hardware",other:industry=hardware
+"Manufacturing & Wholesale Goods:Wholesale=Home Furnishings",other:industry=home_furnishings
+"Manufacturing & Wholesale Goods:Wholesale=Jewelry",other:industry=jewelry
+"Manufacturing & Wholesale Goods:Wholesale=Machinery & Supplies",other:industry=machinery_and_supplies
+"Manufacturing & Wholesale Goods:Wholesale=Meat",other:industry=meat
+"Manufacturing & Wholesale Goods:Wholesale=Metals & Minerals",other:industry=metals_and_minerals
+"Manufacturing & Wholesale Goods:Wholesale=Motor Vehicles",other:industry=motor_vehicles
+"Manufacturing & Wholesale Goods:Wholesale=Music Publishers",other:industry=music_publishers
+"Manufacturing & Wholesale Goods:Wholesale=Non-durable Goods",other:industry=non_durable_goods
+"Manufacturing & Wholesale Goods:Wholesale=Office Equipment",other:industry=office_equipment
+"Manufacturing & Wholesale Goods:Wholesale=Painting Supplies",other:industry=painting_supplies
+"Manufacturing & Wholesale Goods:Wholesale=Petroleum",other:industry=petroleum
+"Manufacturing & Wholesale Goods:Wholesale=Photographic Equipment",other:industry=photographic_equipment
+"Manufacturing & Wholesale Goods:Wholesale=Plants",other:industry=plants
+"Manufacturing & Wholesale Goods:Wholesale=Poultry",other:industry=poultry
+"Manufacturing & Wholesale Goods:Wholesale=Scrap",other:industry=scrap
+"Manufacturing & Wholesale Goods:Wholesale=Seafood",other:industry=seafood
+"Manufacturing & Wholesale Goods:Wholesale=Sporting Goods",other:industry=sporting_goods
+"Manufacturing & Wholesale Goods:Wholesale=Stationery",other:industry=stationery
+"Manufacturing & Wholesale Goods:Wholesale=Tobacco Products",other:industry=tobacco_products
+"Manufacturing & Wholesale Goods:Wholesale=Toys & Hobbies",other:industry=toys_and_hobbies
+"Manufacturing & Wholesale Goods:Wholesale=Vending Machines",other:industry=vending_machines
+"Manufacturing & Wholesale Goods:Wholesale=Wine & Distilled Alcoholic Beverages",other:industry=wine_and_distilled_alcoholic_beverages
+"Transportation:Transit Center=Freight",other:transport=freight_station
