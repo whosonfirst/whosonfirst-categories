@@ -161,3 +161,7 @@ Sigh...
 ### Counts (for things like sub-categories)
 
 Or more specifically the absence of any sub-categories for `class:category` pair. Yeah, that's a thing...
+
+## See also
+
+* https://github.com/whosonfirst/whosonfirst-docs
